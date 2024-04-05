@@ -7,7 +7,6 @@ function fibonacci($n = 1) {
     }
 }
 
-// Imprimindo os primeiros 10 números da sequência de Fibonacci
 for ($i = 0 ; $i < 10; $i++) {
     echo fibonacci($i) . "\n";
 }
